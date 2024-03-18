@@ -1,1 +1,5 @@
 # AgendaApi
+
+Crud
+
+EntityFramework
